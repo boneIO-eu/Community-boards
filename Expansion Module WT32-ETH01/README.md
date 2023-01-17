@@ -51,6 +51,6 @@ Frequency - 100kHz
 DATA - GPIO5
 
 Exit and input description:
-![foto3](docs/foto2.png?raw=true "boneio expander3")
+![foto3](docs/foto3.png?raw=true "boneio expander3")
 
 
